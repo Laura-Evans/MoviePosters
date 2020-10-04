@@ -6,7 +6,7 @@ header_feature_image: ../uploads/behind-the-poster-banner-image-2.png
 bannerheight: 20vmax
 logo: ../uploads/behind-the-poster-logo.png
 favicon: ../uploads/behind-the-poster-logo.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
 items: []
