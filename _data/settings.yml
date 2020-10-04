@@ -4,7 +4,7 @@ header_text: Movie Posters
 footer_text: Copyright 2020 Laura Evans
 header_feature_image: ../uploads/behind-the-poster-banner-image-2.png
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/behind-the-poster-logo.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
