@@ -8,12 +8,14 @@ header_feature_image: ../uploads/oscar-predictions-posters.jpg
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Welcome to Behind The Page, a blog all about the typographical choices made on movie posters. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+There are many aspects that make up a good movie poster, one of which being the typeface. Having a good typeface can make or break a poster. So having a good typeface that matches the theme of the movie and is cohesive is vital when creating a successful movie poster.
 
-This file is saved inside the *pages* folder and is saved as *about.md* . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+There are multiple different genres in film and with those genres comes certain design choices that are synonymous with specific genres. For instance, action films will usually have quite dark colours with orange hues and sans-serif typefaces. Whereas romantic comedies usually have light or white backgrounds with serif typefaces. The choice of typeface on a movie poster can tell the audience a great deal about what the movie is about and what they would expect.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Through socialisation we as humans have been conditioned to understand why certain design choices have been made and what those choices signify. It is through this process that we can understand why a serif font lends itself better to a lighter, more comedic film whereas a sans-serif lends itself better to films with for hard-hitting content. However, there can be exceptions to the rule. For example, the film *All The Money In The World* has two different widely used posters; one which uses a serif font and one which uses a sans-serif font. These stylistic choices will be used in different ways to invoke different emotions.
+
+Typographical choices are a crucial aspect to think about when designing a film poster. You've got to make sure that the typeface you are using is signifying the right genre and invoking the right emotion is key to creating a successful, cohesive poster.
