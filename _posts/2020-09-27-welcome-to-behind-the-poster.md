@@ -6,6 +6,4 @@ header_feature_image: ../uploads/2nd-collage.png
 caption: ""
 comments: true
 ---
-Text talking all about the typographical decisions of rom-coms.
-
-Featured image by [Nil Castellví](https://unsplash.com/@nilcaste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/paris?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Movie posters for When Harry Met Sally, Notting Hill and Bridget Jones's Diary.](../uploads/collage.png)
