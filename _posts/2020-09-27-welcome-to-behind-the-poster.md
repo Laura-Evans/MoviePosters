@@ -6,7 +6,7 @@ header_feature_image: ../uploads/2nd-collage.png
 caption: ""
 comments: true
 ---
-![Movie posters for When Harry Met Sally, Notting Hill and Bridget Jones's Diary.](../uploads/collage.png)
+![Movie posters for When Harry Met Sally, Notting Hill and Bridget Jones's Diary.](../uploads/collage-3.jpg)
 
 Romantic comedies are a very popular and established genre, in 2019 the genre made [122.34 million in the US box office](https://www.statista.com/statistics/668722/romcom-box-office-gross-north-america/#:~:text=Romantic%20comedies%20generated%20just%20122.34,were%20sold%20in%20that%20year.). It’s easy to see why these films are so popular, they’re generally light easy watches that don’t require you to have a PhD in Film Studies to understand what’s going on.
 
@@ -22,4 +22,4 @@ The poster for When Harry Met Sally uses quite muted tones in terms of the colou
 
 The typeface used for the title is *Corvinus Skyline* which was [designed by Imre Reiner](http://luc.devroye.org/skyline.html) in 1934 and adapted for computers in 1991 by Group Type. This typeface is a serif font that has quite a high x-height. It has a heavy weight and there is also a high contrast between the strokes used to make the letters. It has quite a condensed width which could be symbolic of New York and its cramped nature as an image of the capital sits behind the title. The use of serif font could be to draw together the romantic elements of the movie with the design of the poster as a serif font can often connote ideas of romance.
 
-***Notting Hill***
+***Bridget Jones's Diary***
