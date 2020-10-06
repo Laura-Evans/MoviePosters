@@ -5,6 +5,10 @@ date: 2020-09-27T14:53:40.627Z
 header_feature_image: ../uploads/2nd-collage.png
 caption: ""
 comments: true
+tags:
+  - Cinema
+  - Design
+  - Fonts
 ---
 ![Movie posters for When Harry Met Sally and Bridget Jones's Diary.](../uploads/collage-3.jpg)
 
@@ -23,3 +27,13 @@ The poster for When Harry Met Sally uses quite muted tones in terms of the colou
 The typeface used for the title is *Corvinus Skyline* which was [designed by Imre Reiner](http://luc.devroye.org/skyline.html) in 1934 and adapted for computers in 1991 by Group Type. This typeface is a serif font that has quite a high x-height. It has a heavy weight and there is also a high contrast between the strokes used to make the letters. It has quite a condensed width which could be symbolic of New York and its cramped nature as an image of the capital sits behind the title. The use of serif font could be to draw together the romantic elements of the movie with the design of the poster as a serif font can often connote ideas of romance.
 
 ***Bridget Jones's Diary***
+
+Bridget Jones’s Diary is about a thirty something single woman who suddenly has two men chasing after and she has to decide which one to pick. It was [written](https://m.imdb.com/title/tt0243155/?ref_=nv_sr_srsg_0) by multiple people, one of them being Helen Fielding who wrote the novels the film is based on. It was directed by Sharon Maguire and was released in 2001.
+
+Red, blue and white are quite prominent colours on the poster for this film, it is used in both the imagery and the title which produces a cohesive look to the poster. The hex codes of the colours used for the title are #495e8e which is the blue colour and #dc4a3a which is the red colour. 
+
+![#495e8e](../uploads/bjd-blue-font-colour.jpg)
+
+![#dc4a3a](../uploads/bjd-red-font-colour.jpg)
+
+The typeface name is [Nimbus Sans L ](https://www.fontsquirrel.com/fonts/nimbus-sans-l)which is a sans-serif font, it looks very similar to Helvetica as it was based on that typeface. It was designed by URW Studio in 1999. The designer of the poster has chosen a thin weighting for the title, however, the word ‘diary’ has a slightly thicker weighting. This could be to create contrast between the name and the object. It is quite a high contrast font as there’s very little variation between the strokes of the letters. The width of the letters are fairly evenly spaced out. The designers choice in typeface and typeface characteristics are quite simplistic and nondescript which is a stark contrast to Bridget’s behaviour in the film which can be quite wild and impulsive. However, with a simplistic typeface such as Nimbus Sans L it creates quite a timeless film poster that still catches attention two decades on.
