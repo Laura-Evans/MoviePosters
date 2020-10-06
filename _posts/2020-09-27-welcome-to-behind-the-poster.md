@@ -6,7 +6,7 @@ header_feature_image: ../uploads/2nd-collage.png
 caption: ""
 comments: true
 ---
-![Movie posters for When Harry Met Sally, Notting Hill and Bridget Jones's Diary.](../uploads/collage-3.jpg)
+![Movie posters for When Harry Met Sally and Bridget Jones's Diary.](../uploads/collage-3.jpg)
 
 Romantic comedies are a very popular and established genre, in 2019 the genre made [122.34 million in the US box office](https://www.statista.com/statistics/668722/romcom-box-office-gross-north-america/#:~:text=Romantic%20comedies%20generated%20just%20122.34,were%20sold%20in%20that%20year.). It’s easy to see why these films are so popular, they’re generally light easy watches that don’t require you to have a PhD in Film Studies to understand what’s going on.
 
