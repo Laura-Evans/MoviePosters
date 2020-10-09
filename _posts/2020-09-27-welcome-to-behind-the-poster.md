@@ -10,11 +10,11 @@ tags:
   - Design
   - Fonts
 ---
-![Movie posters for When Harry Met Sally and Bridget Jones's Diary.](../uploads/collage-3.jpg)
-
 Romantic comedies are a very popular and established genre, in 2019 the genre made [122.34 million in the US box office](https://www.statista.com/statistics/668722/romcom-box-office-gross-north-america/#:~:text=Romantic%20comedies%20generated%20just%20122.34,were%20sold%20in%20that%20year.). It’s easy to see why these films are so popular, they’re generally light easy watches that don’t require you to have a PhD in Film Studies to understand what’s going on.
 
 Much like every genre, romantic comedies have a certain style to their posters. Common colours are white, pink and red with a bit of blue and the imagery on rom-com posters is usually the main characters. Rom-com posters can be quite mixed in terms of typefaces, some opt for the more romantic style of a serif font whereas some go for the more bold sans-serif font.
+
+![Movie posters for When Harry Met Sally and Bridget Jones's Diary.](../uploads/collage-3.jpg)
 
 ***When Harry Met Sally***
 
