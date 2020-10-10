@@ -8,7 +8,9 @@ tags:
   - Cinema
   - Fonts
 ---
-Harry Potter is a worldwide phenomenon, it made around[ 8 billion dollars](https://www.the-numbers.com/movies/franchise/Harry-Potter#tab=summary) in the worldwide box office and it is absolutely adored by fans. No other book series has had quite the outstanding success that Harry Potter has. Some have got close, for instance The Hunger Games, but none still have such cultural relevance nearly twenty years on. The first book, Harry Potter and the Philosopher’s Stone, was published in 1997 and was a great success. Four years later the first film was released. It was also incredibly successful, making almost 1 billion dollars in the worldwide box office. It starred Daniel Radcliffe in the titular role and had many famous British actors in the wider cast.
+Harry Potter is a worldwide phenomenon, it made around[ 8 billion dollars](https://www.the-numbers.com/movies/franchise/Harry-Potter#tab=summary) in the worldwide box office and it is absolutely adored by fans. No other book series has had quite the outstanding success that Harry Potter has. Some have got close, for instance The Hunger Games, but none still have such cultural relevance nearly twenty years on. 
+
+The first book, Harry Potter and the Philosopher’s Stone, was published in 1997 and was a great success. Four years later the first film was released. It was also incredibly successful, making almost 1 billion dollars in the worldwide box office. It starred Daniel Radcliffe in the titular role and had many famous British actors in the wider cast.
 
 ![Posters for Harry Potter and the Philosopher's Stone and Harry Potter and the Deathly Hallows part 2](../uploads/main-image.png)
 
