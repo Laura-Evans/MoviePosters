@@ -10,9 +10,9 @@ tags: null
 description: null
 show: true
 ---
-Welcome to Behind The Page, a blog all about the typographical choices made on movie posters. 
+Welcome to Behind The Poster, a blog all about the typographical choices made on movie posters. 
 
-There are many aspects that make up a good movie poster, one of which being the typeface. Having a good typeface can make or break a poster. A typeface that matches the theme of the movie and is cohesive is vital when creating a successful movie poster. This is what I plan to discuss in my blog posts; whether or not designers have well executed their choice of typography and what do the choices help to convey to the audience.
+There are many aspects that make up a good movie poster, one of which being the typeface. Having a good typeface can make or break a poster. A typeface that matches the theme of the movie, and is cohesive, is vital when creating a successful movie poster. This is the content I plan to discuss in my blog posts; whether or not designers have well executed their choice of typography and what do the choices help to convey to the audience.
 
 There are multiple different genres in film and with those genres comes certain design choices that are synonymous with specific genres. For instance, action films will usually have quite dark colours with orange hues and sans-serif typefaces. Whereas horror films often have dark or black backgrounds with serif typefaces. The choice of typeface on a movie poster can tell the audience a great deal about what the movie is about and what they would expect.
 
