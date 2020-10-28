@@ -9,4 +9,7 @@ favicon: ../uploads/png-logo.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
-items: []
+items:
+  - name: Get To Know Me
+    siteurl: /aboutme
+    tab: true
