@@ -125,7 +125,7 @@ body {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px #586e8a;
+  border-bottom: 2px dotted #586e8a;
 	font-size: 30px;
 	font-weight: 300;
 	line-height: 50px;
