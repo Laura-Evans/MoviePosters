@@ -8,7 +8,7 @@ body {
 .introduction_section {
 	height: 500px;
 	width: 100%;
-	background-image: url("img/BournemouthBeach.jpg");
+	background-image: url("../img/BournemouthBeach.jpg");
 	background-size: cover;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("img/Laura_Evans.jpg");
+	background-image: url("../img/Laura_Evans.jpg");
 	background-position: center;
 	width: 160px;
 	height: 160px;
