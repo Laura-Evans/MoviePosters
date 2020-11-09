@@ -14,7 +14,7 @@ The actor Ryan Reynolds often relies on parody in his jokes. Deadpool, which was
 
 ![Posters for The Bodyguard and The Hitman's Bodyguard](../uploads/bodyguard-parody.jpg)
 
-The similarity in the name allows for the perfect motive to create a spoof poster and it is done so well. You know immediately what the poster is meant to be parodying because they have nailed the elements that make up the poster, down to the pose and the font choice. The typeface used for both posters is Trajan, a very popular film poster typeface. This font was created by Carol Twombly in 1989.
+The similarity in the name allows for the perfect motive to create a spoof poster and it is done so well. You know immediately what the poster is meant to be parodying because they have nailed the elements that make up the poster, down to the pose and the font choice. The typeface used for both posters is [Trajan](https://news.avclub.com/heres-how-a-single-font-came-to-dominate-movie-posters-1827234582), a very popular film poster typeface. This font was created by Carol Twombly in 1989.
 
 In Disney’s Zootopia, there is a scene in the film where a rodent is trying to sell counterfeit films, the joke being that they were all animal spoofs of popular Disney films. Audiences loved this scene so to further promote the film Disney released Zootopia themed parody posters of popular films. Some examples being; Star Wars The Furce Awakens, La La Lamb and The Shape of the Water Buffalo. While the titles might not be exactly the same we are able to instantly relate it to the original poster because they replicate the look of it. Typography is a key factor in making parody posters, if you don’t have the right font then it’s not going to resemble its original counterpart.
 
