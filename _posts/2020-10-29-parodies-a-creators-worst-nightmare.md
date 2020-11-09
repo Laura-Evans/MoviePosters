@@ -8,7 +8,7 @@ tags:
   - Cinema
   - Fonts
 ---
-Spoof posters for our favourite films are always a great laugh but what is it that makes them so effective? Parody posters are able to encapsulate the essence of the original poster but put a funny, comedic spin on it. 
+Spoof posters of our favourite films are always a great laugh but what is it that makes them so effective? Parody posters are able to encapsulate the essence of the original poster but put a funny, comedic spin on it. 
 
 The actor Ryan Reynolds often relies on parody in his jokes. Deadpool, which was created by and stars Ryan Reynolds, has many parodies and references within the film and promotional material. Furthering this trend of parody jokes the actor recently starred in The Hitman’s Bodyguard. To promote the film they created a parody poster resembling The Bodyguard poster.
 
