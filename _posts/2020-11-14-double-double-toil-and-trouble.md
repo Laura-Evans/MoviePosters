@@ -30,6 +30,4 @@ The poster is very simplistic; a colour scheme consisting of three colours, blac
 
 The film poster uses very muted colours in its colour scheme. This could be to add to the feeling of suspense and mystery. The typeface used for The Conjuring poster is [Adobe Garamond Semibold](https://fontmeme.com/the-conjuring-film-font/#:~:text=About%20The%20Conjuring%20(film)%20Font&text=The%20film%20title%20on%20the,Old%20Typewriter%20from%20Elsner%2BFlake), however, it has been modified slightly. Typically, the ‘J’ in typeface has a rounded end but on The Conjuring poster the end of the ‘J’ has been cut off and has a blunt end. The title is almost black in colour, it has a hex code of #040406.
 
-![Adobe Garamond Semibold 'J'](../uploads/j.jpg)
-
 Along with the modifications on the ‘J’ the font has also been pushed very close together, with the word ‘The’ connecting. Seeing the typeface pushed so close together gives a sense of claustrophobia and unease which is very effective for a horror poster. It makes the reader feel unsettled and on edge which is exactly how the creators want you to feel.
