@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suicide Squad: The Anti-heroes"
-date: 2020-11-14T12:00:35.086Z
+date: 2020-11-16T10:01:52.128Z
 header_feature_image: ../uploads/ss-cover-collage.jpg
 comments: true
 tags:
