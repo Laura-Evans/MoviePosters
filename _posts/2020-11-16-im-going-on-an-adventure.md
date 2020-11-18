@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm going on an adventure!
-date: 2020-11-16T20:02:54.648Z
+date: 2020-11-18T11:52:38.056Z
 header_feature_image: ../uploads/adventures-cover-collage.png
 comments: true
 tags:
