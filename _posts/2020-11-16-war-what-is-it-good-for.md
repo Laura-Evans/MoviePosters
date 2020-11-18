@@ -1,7 +1,7 @@
 ---
 layout: post
 title: War; what is it good for?
-date: 2020-11-16T20:31:09.769Z
+date: 2020-11-18T11:53:38.862Z
 header_feature_image: ../uploads/war-cover-collage.png
 comments: true
 ---
